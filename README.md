@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+innovative+solutions+for+a+better+tomorrow;AI+Explorer+%7C+Tech+Explorer;Future+Software+Engineer;Creating+impactful+digital+experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+innovative+solutions+for+a+better+tomorrow;AI+Explorer+%7C+Tech+Explorer;Future+Software+Engineer;Creating+impactful+digital+experiences" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 💡 Passionate about building scalable web applications & AI-powered solutions
 - 🌍 Interested in AI, Healthcare, and Productivity Tech
 - 🎯 Goal: Crack top product companies & build impactful products
-- 🚀 Currently exploring technology through real-world applications and problem-solving projects.
+- 🚀 Exploring real-world technology through innovation and problem-solving
 
 ---
 
@@ -24,7 +24,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css,git,github,vscode,figma,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css,git,github,vscode,figma" />
 
 </p>
 
@@ -80,22 +80,12 @@ Intelligent chatbot using NLP and machine learning concepts.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshaThummala4545&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaThummala4545&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaThummala4545&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaThummala4545&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -103,7 +93,9 @@ Intelligent chatbot using NLP and machine learning concepts.
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaThummala4545&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -111,7 +103,9 @@ Intelligent chatbot using NLP and machine learning concepts.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HarshaThummala4545&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=HarshaThummala4545&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+
 </p>
 
 ---
@@ -151,7 +145,7 @@ Intelligent chatbot using NLP and machine learning concepts.
 
 ---
 
-# ☕ You can donate me a coffee
+# 💰 You can help me by Donating
 
 <p align="center">
 
@@ -162,5 +156,5 @@ Intelligent chatbot using NLP and machine learning concepts.
 </p>
 
 <p align="center">
-Every coffee keeps me motivated ❤️
+Every coffee fuels another late-night build 🚀
 </p>
