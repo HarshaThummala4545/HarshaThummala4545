@@ -80,6 +80,22 @@ Intelligent chatbot using NLP and machine learning concepts.
 
 ---
 
+# 🎮 Play With Harsha
+
+<p align="center">
+
+<a href="https://harshathummala4545.github.io/play-with-harsha/">
+<img src="https://img.shields.io/badge/🎮%20Play%20Now-00F7FF?style=for-the-badge&logo=gamejolt&logoColor=black"/>
+</a>
+
+<a href="https://github.com/HarshaThummala4545/play-with-harsha">
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
