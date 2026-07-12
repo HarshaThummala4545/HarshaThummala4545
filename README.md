@@ -176,3 +176,7 @@ Intelligent chatbot using NLP and machine learning concepts.
 <p align="center">
 Every coffee fuels another late-night build 🚀
 </p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6A5ACD,50:00C9FF,100:92FE9D&text=Harsha%20Sri%20Sai%20Thummala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
+</p>
